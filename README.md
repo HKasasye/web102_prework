@@ -23,6 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+![SeaMonster](https://user-images.githubusercontent.com/86190651/216858766-fc1d2ee1-95b5-449d-b91b-ad0eb442813a.gif)
+
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
